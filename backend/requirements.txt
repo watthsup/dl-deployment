@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-multipart
+albumentations
+numpy
+tritonclient[grpc]
+scipy
+onnxruntime
