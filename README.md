@@ -2,9 +2,9 @@
 
 This project is a full-stack application capable of performing image classification in 1000 categories from ImageNet. The application uses a pre-trained ResNet18 model on ImageNet and contains three components:
 
-1. Front-end: Developed using Streamlit to serve the client
-2. Back-end: API app developed using FastAPI
-3. Inference server: Triton Docker container to serve the deep learning model and further enhance concurrent usage
+1. Front-end: A Streamlit-based web applitcation to serve client interaction.
+2. Back-end: A FastAPI-based API app that processes the user's request and sends it to the inference server.
+3. Inference server: A Triton Docker container that serves the AnimeGAN deep learning model and enhances concurrent usage.
 
 The purpose of this project is to demonstrate deep learning deployment architecture and serve as a portfolio piece.
 
