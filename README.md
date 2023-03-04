@@ -1,4 +1,4 @@
-# Image Classification using ResNet18 on ImageNet
+# Image Classification Deployment
 
 This project is a full-stack application capable of performing image classification in 1000 categories from ImageNet. The application uses a pre-trained ResNet18 model on ImageNet and contains three components:
 
