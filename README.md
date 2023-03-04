@@ -33,3 +33,6 @@ To use the application, follow the steps below:
 2. Navigate to the root directory of the project.
 3. Run `docker-compose up` to build and start the application.
 4. Access the Streamlit frontend by navigating to `http://localhost:8501`.
+
+## Preview
+![ezgif com-video-to-gif (3)](https://user-images.githubusercontent.com/121663706/222917652-8e9f0775-1ca3-4f34-a819-248d69460020.gif)
