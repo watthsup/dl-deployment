@@ -4,7 +4,7 @@ This project is a full-stack application capable of performing image classificat
 
 1. Front-end: A Streamlit-based web applitcation to serve client interaction.
 2. Back-end: A FastAPI-based API app that processes the user's request and sends it to the inference server.
-3. Inference server: A Triton Docker container that serves the AnimeGAN deep learning model and enhances concurrent usage.
+3. Inference server: A Triton Docker container that serves the deep learning model and enhances concurrent usage.
 
 The purpose of this project is to demonstrate deep learning deployment architecture and serve as a portfolio piece.
 
